@@ -1,0 +1,166 @@
+{
+  "musicos": [
+    {
+      "id": 1,
+      "nome": "Ana Clara Silva",
+      "idade": 28,
+      "sexo": "F",
+      "salario": 8827.33,
+      "cep": "37070-140"
+    },
+    {
+      "id": 2,
+      "nome": "Pedro Henrique Santos",
+      "idade": 14,
+      "sexo": "M",
+      "salario": 10627.70,
+      "cep": "37010-650"
+    },
+    {
+      "id": 3,
+      "nome": "Maria Oliveira Costa",
+      "idade": 45,
+      "sexo": "F",
+      "salario": 9673.06,
+      "cep": "31255-200"
+    },
+    {
+      "id": 4,
+      "nome": "Lucas Gomes Pereira",
+      "idade": 79,
+      "sexo": "M",
+      "salario": 11233.15,
+      "cep": "71020-111"
+    },
+    {
+      "id": 5,
+      "nome": "Juliana Alves de Souza",
+      "idade": 31,
+      "sexo": "F",
+      "salario": 14529.62,
+      "cep": "70390-125"
+    }
+  ],
+  "instrumentos": [
+    {
+      "id": 1,
+      "nome": "Violino",
+      "codigo": 101,
+      "tipo": "Cordas"
+    },
+    {
+      "id": 2,
+      "nome": "Bandolim",
+      "codigo": 110,
+      "tipo": "Cordas"
+    },
+    {
+      "id": 3,
+      "nome": "Flauta",
+      "codigo": 201,
+      "tipo": "Sopro"
+    },
+    {
+      "id": 4,
+      "nome": "Oboé",
+      "codigo": 208,
+      "tipo": "Sopro"
+    },
+    {
+      "id": 5,
+      "nome": "Violão",
+      "codigo": 102,
+      "tipo": "Cordas"
+    },
+    {
+      "id": 6,
+      "nome": "Contra-baixo",
+      "codigo": 104,
+      "tipo": "Cordas"
+    },
+    {
+      "id": 7,
+      "nome": "Clarinete",
+      "codigo": 202,
+      "tipo": "Sopro"
+    },
+    {
+      "id": 8,
+      "nome": "Trombone",
+      "codigo": 206,
+      "tipo": "Sopro"
+    },
+    {
+      "id": 9,
+      "nome": "Violoncelo",
+      "codigo": 103,
+      "tipo": "Cordas"
+    },
+    {
+      "id": 10,
+      "nome": "Saxofone Alto",
+      "codigo": 203,
+      "tipo": "Sopro"
+    },
+    {
+      "id": 11,
+      "nome": "Harpa",
+      "codigo": 106,
+      "tipo": "Cordas"
+    },
+    {
+      "id": 12,
+      "nome": "Tuba",
+      "codigo": 209,
+      "tipo": "Sopro"
+    },
+    {
+      "id": 13,
+      "nome": "Trompete",
+      "codigo": 205,
+      "tipo": "Sopro"
+    },
+    {
+      "id": 14,
+      "nome": "Guitarra",
+      "codigo": 105,
+      "tipo": "Cordas"
+    },
+    {
+      "id": 15,
+      "nome": "Baixo",
+      "codigo": 107,
+      "tipo": "Cordas"
+    },
+    {
+      "id": 16,
+      "nome": "Fagote",
+      "codigo": 207,
+      "tipo": "Sopro"
+    },
+    {
+      "id": 17,
+      "nome": "Viola",
+      "codigo": 108,
+      "tipo": "Cordas"
+    },
+    {
+      "id": 18,
+      "nome": "Corneta",
+      "codigo": 210,
+      "tipo": "Sopro"
+    },
+    {
+      "id": 19,
+      "nome": "Banjo",
+      "codigo": 109,
+      "tipo": "Cordas"
+    },
+    {
+      "id": 20,
+      "nome": "Trompa",
+      "codigo": 204,
+      "tipo": "Sopro"
+    }
+  ]
+}
